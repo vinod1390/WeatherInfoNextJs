@@ -26,6 +26,25 @@ Node.js (v16 or later)
 
 npm or yarn
 
+Installation
+git clone https://github.com/vinod1390/WeatherInfoNextJs.git
+
+Navigate to the project directory:
+cd WeatherInfoNextJs
+
+Install dependencies:
+yarn install
+# or
+npm install
+
+Run the development server:
+
+yarn dev
+# or
+npm run dev
+
+Open http://localhost:3000 in your browser.
+
 Usage
 
 Enter the city name in the search box and click Search.
