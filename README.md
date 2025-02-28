@@ -39,5 +39,13 @@ API integration
 http://api.weatherapi.com/v1/forecast.json?key=YOUR_API_KEY&q=CityName&days=7
 
 genrate API key from 
+API Service:
+https://www.weatherapi.com/
 
-http://weatherapi.com
+
+Font:
+https://fonts.google.com/specimen/Lexend
+
+
+
+
